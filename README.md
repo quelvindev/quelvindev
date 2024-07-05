@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Quelvin Carvalho! 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilly-Alveess&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilly-Alveess&layout=compact&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quelvindev&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quelvindev&layout=compact&theme=dark">
 </div>
 
 <div> <br>
