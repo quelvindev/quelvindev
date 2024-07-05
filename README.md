@@ -1,9 +1,10 @@
 ## Olá! Eu sou o Quelvin Carvalho! 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quelvindev&show_icons=true&theme=radical">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quelvindev&layout=compact&theme=dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quelvindev&show_icons=true&theme=dracula&incluse_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quelvindev&layout=compact&langs_cont=16&theme=dracula">
 </div>
+
 
 <div> <br>
   <img style="width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
@@ -23,7 +24,7 @@
   <img style="width:40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
 </div>
 
-##
+
 
 <div>
   <a href="https://mailto:quelvindev@gmail.com">
